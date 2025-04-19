@@ -1,7 +1,7 @@
 id=box4
 name=box4magisk
 version=v1.0.0
-versionCode=2024091613
+versionCode=2025141100
 author=CHIZI-0618
 description=Use sing-box, clash, v2ray, xray tunnel proxy on Android devices.
 updateJson=https://raw.githubusercontent.com/huai12138/box4magisk/main/box4.json
