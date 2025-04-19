@@ -19,5 +19,5 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ github.ref_name }}
-          files: box4_v*.zip
+          files: box4_*.zip
           generate_release_notes: true
