@@ -12,6 +12,8 @@
 
 
 
+### v1.0.3
+- 修复customize.sh apatch下语法
 
 
 
