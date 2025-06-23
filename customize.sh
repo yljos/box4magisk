@@ -3,7 +3,7 @@
 SKIPUNZIP=1
 ASH_STANDALONE=1
 
-if [ "$BOOTMODE" ! = true ] ; then
+if [ "$BOOTMODE" != true ] ; then
   abort "Error: Please install in Magisk Manager, KernelSU Manager or APatch"
 fi
 
