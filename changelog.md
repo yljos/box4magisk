@@ -9,27 +9,23 @@
 
 
 
-
+### v1.0.4
+- 默认使用mihomo
+- enable ipv6
 
 
 ### v1.0.3
 - 修复customize.sh apatch下语法
-
-
-
 
 ### v1.0.2
 - 移除内核
 - 改为默认使用sing-box
 - 增加下载配置脚本
 
-
-
 ### v1.0.1
 - 改为自动模式
 - 改为使用mihomo
 - 添加mihomo内核1.19.8
-
 
 ### v1.0.0
 - 基于CHIZI-0618 box4_v5.1 修改
